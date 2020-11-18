@@ -1,0 +1,13 @@
+package com.assign.ordersale;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class OrdersaleApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(OrdersaleApplication.class, args);
+	}
+
+}
